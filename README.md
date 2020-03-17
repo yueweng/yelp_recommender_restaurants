@@ -1,1 +1,1 @@
-# yelp_recommender_restaurants
+# Restaurant Recommender using Yelp Dataset
