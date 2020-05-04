@@ -8,5 +8,3 @@ Once I got the data, I stored the data into a MongoDB Database
 
 ### Cleaning the data
 The data collected from Yelp has different formatting. In order to understand and parse the data, I have to unpack the data, convert them into a list or dictionary in the format I want and saved it into a dataframe. Certain columns include string values and in order for data processing, I have to dummify the values.
-
-### EDA
